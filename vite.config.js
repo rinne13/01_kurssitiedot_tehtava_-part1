@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/02-part2-react-kurssitiedot", 
+  base: "01_kurssitiedot_tehtava_-part1", 
   plugins: [react()],
 })
